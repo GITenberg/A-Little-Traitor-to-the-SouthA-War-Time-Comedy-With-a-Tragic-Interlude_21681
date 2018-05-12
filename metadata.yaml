@@ -1,0 +1,38 @@
+_repo: A-Little-Traitor-to-the-SouthA-War-Time-Comedy-With-a-Tragic-Interlude_21681
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Rahn, A. D.
+    gutenberg_agent_id: '24856'
+    url: http://www.gutenberg.org/2009/agents/24856
+  - agent_name: Hooper, C. E.
+    gutenberg_agent_id: '24857'
+    url: http://www.gutenberg.org/2009/agents/24857
+covers:
+- cover_type: archival
+  image_path: 21681-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_bookshelf:
+- Children's Fiction
+- US Civil War
+gutenberg_issued: '2007-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: "A Little Traitor to the South\r\nA War Time Comedy with a Tragic Interlude"
+url: http://www.gutenberg.org/ebooks/21681
